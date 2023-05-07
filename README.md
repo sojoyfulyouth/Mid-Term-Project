@@ -1,3 +1,5 @@
+# This Project was completed with the following open source template
+
 # Neomorphic-PortfolioTemplate
 
 This is a OpenSource Portfolio Template Based on Neomorphic Theme. 
@@ -51,22 +53,3 @@ Javascript, HTML, CSS,etc..
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-#### Contributors
-
-<a href="https://github.com/adithyapaib/Neomorphic-PortfolioTemplate/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=adithyapaib/Neomorphic-PortfolioTemplate" />
-</a>
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/adithyapaib/Neomorphic-PortfolioTemplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/adithyapaib/Neomorphic-PortfolioTemplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adithyapaib/Neomorphic-PortfolioTemplate.svg?style=for-the-badge
-[forks-url]: https://github.com/adithyapaib/Neomorphic-PortfolioTemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/adithyapaib/Neomorphic-PortfolioTemplate.svg?style=for-the-badge
-[stars-url]: https://github.com/adithyapaib/Neomorphic-PortfolioTemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adithyapaib/Neomorphic-PortfolioTemplate.svg?style=for-the-badge
-[issues-url]: https://github.com/adithyapaib/Neomorphic-PortfolioTemplate/issues
-[license-shield]: https://img.shields.io/github/license/adithyapaib/Neomorphic-PortfolioTemplate.svg?style=for-the-badge
-[license-url]: https://github.com/adithyapaib/Neomorphic-PortfolioTemplate/blob/master/LICENSE
