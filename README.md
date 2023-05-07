@@ -1,11 +1,8 @@
 # This Project was completed with the following open source template
 
-# Neomorphic-PortfolioTemplate
+## Neomorphic-PortfolioTemplate
 
 This is a OpenSource Portfolio Template Based on Neomorphic Theme. 
-
-# What is Neomorphic?
-Neomorphism is a relatively new design movement and a phrase that has just gained popularity. <br> Its aesthetic is defined by minimal and realistic-looking UI, which is a new twist on skeuomorphism. <br> It got its name in a UX Collective post from December 2019, and since then, various design and development communities have been actively discussing the trend, usually with differing opinions. <br> Chris poked fun at it on Twitter. Adam Giebl created an online generator for it. <br> Developers, designers, and UX specialists are weighing in on the topic of aesthetics, usability, accessibility, and practicality of this design trend.
 
 Made with:
 
@@ -13,7 +10,7 @@ Made with:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-# Template Preview
+## Template Preview
 
 This is an OpenSource Portfolio Template Based on Neomorphic Theme Made with pure HTML, CSS(SCSS), And a bit of Java script.
 
